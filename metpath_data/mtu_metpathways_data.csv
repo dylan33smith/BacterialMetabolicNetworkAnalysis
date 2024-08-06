@@ -1,0 +1,979 @@
+Pathway,Reactions,Substrates,Products
+Biosynthesis of secondary metabolites,rn:R00342,cpd:C00149,cpd:C00036
+Biosynthesis of secondary metabolites,rn:R00351,"cpd:C00024, cpd:C00036",cpd:C00158
+Biosynthesis of secondary metabolites,rn:R02164,cpd:C00042,cpd:C00122
+Biosynthesis of secondary metabolites,rn:R00405,cpd:C00042,cpd:C00091
+Biosynthesis of secondary metabolites,rn:R01197,cpd:C00026,cpd:C00091
+Biosynthesis of secondary metabolites,rn:R01082,cpd:C00149,cpd:C00122
+Biosynthesis of secondary metabolites,rn:R01899,cpd:C00311,cpd:C05379
+Biosynthesis of secondary metabolites,rn:R00268,cpd:C05379,cpd:C00026
+Biosynthesis of secondary metabolites,rn:R00209,cpd:C00022,cpd:C00024
+Biosynthesis of secondary metabolites,rn:R00199,cpd:C00022,cpd:C00074
+Biosynthesis of secondary metabolites,rn:R00658,cpd:C00631,cpd:C00074
+Biosynthesis of secondary metabolites,rn:R00235,cpd:C00033,cpd:C00024
+Biosynthesis of secondary metabolites,rn:R00710,cpd:C00084,cpd:C00033
+Biosynthesis of secondary metabolites,rn:R00746,cpd:C00469,cpd:C00084
+Biosynthesis of secondary metabolites,rn:R00341,cpd:C00036,cpd:C00074
+Biosynthesis of secondary metabolites,rn:R01518,cpd:C00631,cpd:C00197
+Biosynthesis of secondary metabolites,rn:R01512,cpd:C00197,cpd:C00236
+Biosynthesis of secondary metabolites,rn:R01061,cpd:C00118,cpd:C00236
+Biosynthesis of secondary metabolites,rn:R01015,cpd:C00118,cpd:C00111
+Biosynthesis of secondary metabolites,rn:R01068,cpd:C00354,"cpd:C00111, cpd:C00118"
+Biosynthesis of secondary metabolites,rn:R00764,cpd:C00085,cpd:C00354
+Biosynthesis of secondary metabolites,rn:R13199,cpd:C00668,cpd:C00085
+Biosynthesis of secondary metabolites,rn:R00959,cpd:C00103,cpd:C00668
+Biosynthesis of secondary metabolites,rn:R01786,cpd:C00267,cpd:C00668
+Biosynthesis of secondary metabolites,rn:R02739,cpd:C00668,cpd:C01172
+Biosynthesis of secondary metabolites,rn:R01600,cpd:C00221,cpd:C01172
+Biosynthesis of secondary metabolites,rn:R02736,cpd:C01172,cpd:C01236
+Biosynthesis of secondary metabolites,rn:R02035,cpd:C01236,cpd:C00345
+Biosynthesis of secondary metabolites,rn:R01528,cpd:C00345,cpd:C00199
+Biosynthesis of secondary metabolites,rn:R01529,cpd:C00199,cpd:C00231
+Biosynthesis of secondary metabolites,rn:R01067,"cpd:C00085, cpd:C00118","cpd:C00279, cpd:C00231"
+Biosynthesis of secondary metabolites,rn:R08575,"cpd:C05382, cpd:C00118","cpd:C00085, cpd:C00279"
+Biosynthesis of secondary metabolites,rn:R01641,"cpd:C05382, cpd:C00118","cpd:C00117, cpd:C00231"
+Biosynthesis of secondary metabolites,rn:R01056,cpd:C00117,cpd:C00199
+Biosynthesis of secondary metabolites,rn:R01049,cpd:C00117,cpd:C00119
+Biosynthesis of secondary metabolites,rn:R01826,"cpd:C00074, cpd:C00279",cpd:C04691
+Biosynthesis of secondary metabolites,rn:R03083,cpd:C04691,cpd:C00944
+Biosynthesis of secondary metabolites,rn:R03084,cpd:C00944,cpd:C02637
+Biosynthesis of secondary metabolites,rn:R02412,cpd:C00493,cpd:C03175
+Biosynthesis of secondary metabolites,rn:R03460,cpd:C03175,cpd:C01269
+Biosynthesis of secondary metabolites,rn:R01714,cpd:C01269,cpd:C00251
+Biosynthesis of secondary metabolites,rn:R01715,cpd:C00251,cpd:C00254
+Biosynthesis of secondary metabolites,rn:R01373,cpd:C00254,cpd:C00166
+Biosynthesis of secondary metabolites,rn:R00688,cpd:C00079,cpd:C00166
+Biosynthesis of secondary metabolites,rn:R01728,cpd:C00254,cpd:C01179
+Biosynthesis of secondary metabolites,rn:R00734,cpd:C00082,cpd:C01179
+Biosynthesis of secondary metabolites,rn:R00985,cpd:C00251,cpd:C00108
+Biosynthesis of secondary metabolites,rn:R01073,cpd:C04302,cpd:C00108
+Biosynthesis of secondary metabolites,rn:R03509,cpd:C04302,cpd:C01302
+Biosynthesis of secondary metabolites,rn:R03508,cpd:C01302,cpd:C03506
+Biosynthesis of secondary metabolites,rn:R02722,cpd:C03506,cpd:C00078
+Biosynthesis of secondary metabolites,rn:R00674,cpd:C00463,cpd:C00078
+Biosynthesis of secondary metabolites,rn:R02340,cpd:C03506,cpd:C00463
+Biosynthesis of secondary metabolites,rn:R04007,cpd:C02646,cpd:C15804
+Biosynthesis of secondary metabolites,rn:R04998,cpd:C05839,cpd:C05838
+Biosynthesis of secondary metabolites,rn:R02596,cpd:C00590,cpd:C15805
+Biosynthesis of secondary metabolites,rn:R03919,cpd:C02325,cpd:C15806
+Biosynthesis of secondary metabolites,rn:R04300,cpd:C03758,cpd:C04043
+Biosynthesis of secondary metabolites,rn:R01954,"cpd:C00327, cpd:C00049",cpd:C03406
+Biosynthesis of secondary metabolites,rn:R01086,cpd:C03406,"cpd:C00062, cpd:C00122"
+Biosynthesis of secondary metabolites,rn:R00552,cpd:C00062,cpd:C00327
+Biosynthesis of secondary metabolites,rn:R00480,cpd:C00049,cpd:C03082
+Biosynthesis of secondary metabolites,rn:R02291,cpd:C00441,cpd:C03082
+Biosynthesis of secondary metabolites,rn:R04198,cpd:C03972,cpd:C20258
+Biosynthesis of secondary metabolites,rn:R02735,cpd:C00666,cpd:C00680
+Biosynthesis of secondary metabolites,rn:R05636,"cpd:C00022, cpd:C00118",cpd:C11437
+Biosynthesis of secondary metabolites,rn:R05688,cpd:C11434,cpd:C11437
+Biosynthesis of secondary metabolites,rn:R05633,cpd:C11434,cpd:C11435
+Biosynthesis of secondary metabolites,rn:R05634,cpd:C11435,cpd:C11436
+Biosynthesis of secondary metabolites,rn:R05637,cpd:C11436,cpd:C11453
+Biosynthesis of secondary metabolites,rn:R01123,cpd:C00129,cpd:C00235
+Biosynthesis of secondary metabolites,rn:R00238,cpd:C00024,cpd:C00332
+Biosynthesis of secondary metabolites,rn:R05731,cpd:C01943,cpd:C11508
+Biosynthesis of secondary metabolites,rn:R02065,cpd:C00353,cpd:C03427
+Biosynthesis of secondary metabolites,rn:R01072,cpd:C03090,cpd:C00119
+Biosynthesis of secondary metabolites,rn:R04144,cpd:C03090,cpd:C03838
+Biosynthesis of secondary metabolites,rn:R04325,cpd:C03838,cpd:C04376
+Biosynthesis of secondary metabolites,rn:R04463,cpd:C04376,cpd:C04640
+Biosynthesis of secondary metabolites,rn:R04208,cpd:C04640,cpd:C03373
+Biosynthesis of secondary metabolites,rn:R07404,cpd:C03373,cpd:C15667
+Biosynthesis of secondary metabolites,rn:R07405,cpd:C15667,cpd:C04751
+Biosynthesis of secondary metabolites,rn:R04591,cpd:C04751,cpd:C04823
+Biosynthesis of secondary metabolites,rn:R04559,cpd:C04823,cpd:C04677
+Biosynthesis of secondary metabolites,rn:R04560,cpd:C04677,cpd:C04734
+Biosynthesis of secondary metabolites,rn:R01127,cpd:C00130,cpd:C04734
+Biosynthesis of secondary metabolites,rn:R01130,cpd:C00130,cpd:C00655
+Biosynthesis of secondary metabolites,rn:R02143,cpd:C01762,cpd:C00385
+Biosynthesis of secondary metabolites,rn:R02142,cpd:C00655,cpd:C00385
+Biosynthesis of secondary metabolites,rn:R07940,cpd:C13747,cpd:C16365
+Biosynthesis of secondary metabolites,rn:R01773,cpd:C00263,cpd:C00441
+Biosynthesis of secondary metabolites,rn:R01777,cpd:C00263,cpd:C01118
+Biosynthesis of secondary metabolites,rn:R03260,cpd:C01118,"cpd:C02291, cpd:C00042"
+Biosynthesis of secondary metabolites,rn:R01286,cpd:C02291,cpd:C00155
+Biosynthesis of secondary metabolites,rn:R00650,cpd:C00155,cpd:C00073
+Biosynthesis of secondary metabolites,rn:R08620,cpd:C17210,cpd:C17212
+Biosynthesis of secondary metabolites,rn:R08622,cpd:C17211,cpd:C17213
+Biosynthesis of secondary metabolites,rn:R00451,cpd:C00680,cpd:C00047
+Biosynthesis of secondary metabolites,rn:R00483,cpd:C00152,cpd:C00049
+Biosynthesis of secondary metabolites,rn:R00122,cpd:C00020,cpd:C00008
+Biosynthesis of secondary metabolites,rn:R00086,cpd:C00008,cpd:C00002
+Biosynthesis of secondary metabolites,rn:R01248,cpd:C00148,cpd:C03912
+Biosynthesis of secondary metabolites,rn:R01122,cpd:C00235,cpd:C04432
+Biosynthesis of secondary metabolites,rn:R02283,cpd:C00437,cpd:C01250
+Biosynthesis of secondary metabolites,rn:R03443,cpd:C01250,cpd:C04133
+Biosynthesis of secondary metabolites,rn:R02649,cpd:C00624,cpd:C04133
+Biosynthesis of secondary metabolites,rn:R00259,cpd:C00025,cpd:C00624
+Biosynthesis of secondary metabolites,rn:R00093,cpd:C00025,cpd:C00026
+Biosynthesis of secondary metabolites,rn:R05578,cpd:C00025,cpd:C02987
+Biosynthesis of secondary metabolites,rn:R04109,cpd:C02987,cpd:C03741
+Biosynthesis of secondary metabolites,rn:R02272,cpd:C00430,cpd:C03741
+Biosynthesis of secondary metabolites,rn:R00036,cpd:C00430,cpd:C00931
+Biosynthesis of secondary metabolites,rn:R00084,cpd:C00931,cpd:C01024
+Biosynthesis of secondary metabolites,rn:R03165,cpd:C01024,cpd:C01051
+Biosynthesis of secondary metabolites,rn:R03197,cpd:C01051,cpd:C03263
+Biosynthesis of secondary metabolites,rn:R03222,cpd:C01079,cpd:C02191
+Biosynthesis of secondary metabolites,rn:R03877,cpd:C02191,cpd:C03516
+Biosynthesis of secondary metabolites,rn:R00310,cpd:C02191,cpd:C00032
+Biosynthesis of secondary metabolites,rn:R07412,cpd:C15672,cpd:C15670
+Biosynthesis of secondary metabolites,rn:R03194,cpd:C01051,cpd:C02463
+Biosynthesis of secondary metabolites,rn:R03947,cpd:C02463,cpd:C05778
+Biosynthesis of secondary metabolites,rn:R02864,cpd:C00748,cpd:C05778
+Biosynthesis of secondary metabolites,rn:R09737,cpd:C19858,cpd:C19859
+Biosynthesis of secondary metabolites,rn:R01302,cpd:C00156,cpd:C00251
+Biosynthesis of secondary metabolites,rn:R01717,cpd:C00251,cpd:C00885
+Biosynthesis of secondary metabolites,rn:R08165,cpd:C00885,cpd:C16519
+Biosynthesis of secondary metabolites,rn:R04031,cpd:C02730,cpd:C05817
+Biosynthesis of secondary metabolites,rn:R04030,cpd:C02730,cpd:C03160
+Biosynthesis of secondary metabolites,rn:R07263,cpd:C03160,cpd:C15547
+Biosynthesis of secondary metabolites,rn:R07262,cpd:C15547,cpd:C03657
+Biosynthesis of secondary metabolites,rn:R10757,"cpd:C05847, cpd:C03657",cpd:C19847
+Biosynthesis of secondary metabolites,rn:R09736,cpd:C19847,cpd:C05819
+Biosynthesis of secondary metabolites,rn:R00226,cpd:C06010,cpd:C00022
+Biosynthesis of secondary metabolites,rn:R05071,cpd:C06010,cpd:C04181
+Biosynthesis of secondary metabolites,rn:R04440,cpd:C04272,cpd:C04181
+Biosynthesis of secondary metabolites,rn:R04441,cpd:C04272,cpd:C00141
+Biosynthesis of secondary metabolites,rn:R01214,cpd:C00183,cpd:C00141
+Biosynthesis of secondary metabolites,rn:R03968,cpd:C02504,cpd:C02631
+Biosynthesis of secondary metabolites,rn:R04001,cpd:C04411,cpd:C02631
+Biosynthesis of secondary metabolites,rn:R04426,cpd:C04411,cpd:C04236
+Biosynthesis of secondary metabolites,rn:R01088,cpd:C00123,cpd:C00233
+Biosynthesis of secondary metabolites,rn:R00220,cpd:C00065,cpd:C00022
+Biosynthesis of secondary metabolites,rn:R00945,cpd:C00037,cpd:C00065
+Biosynthesis of secondary metabolites,rn:R00996,cpd:C00188,cpd:C00109
+Biosynthesis of secondary metabolites,rn:R08648,cpd:C00109,cpd:C06006
+Biosynthesis of secondary metabolites,rn:R05069,cpd:C06006,cpd:C14463
+Biosynthesis of secondary metabolites,rn:R05068,cpd:C06007,cpd:C14463
+Biosynthesis of secondary metabolites,rn:R05070,cpd:C06007,cpd:C00671
+Biosynthesis of secondary metabolites,rn:R02196,cpd:C00407,cpd:C00671
+Biosynthesis of secondary metabolites,rn:R06602,cpd:C00885,cpd:C00805
+Biosynthesis of secondary metabolites,rn:R07644,cpd:C00196,cpd:C05821
+Biosynthesis of secondary metabolites,rn:R03172,cpd:C15980,cpd:C03345
+Biosynthesis of secondary metabolites,rn:R04204,cpd:C04405,cpd:C03345
+Biosynthesis of secondary metabolites,rn:R04203,cpd:C04405,cpd:C03344
+Biosynthesis of secondary metabolites,rn:R00177,cpd:C00019,cpd:C00073
+Biosynthesis of secondary metabolites,rn:R01071,cpd:C02739,cpd:C00119
+Biosynthesis of secondary metabolites,rn:R04035,cpd:C02739,cpd:C02741
+Biosynthesis of secondary metabolites,rn:R04037,cpd:C02741,cpd:C04896
+Biosynthesis of secondary metabolites,rn:R04640,cpd:C04896,cpd:C04916
+Biosynthesis of secondary metabolites,rn:R04558,cpd:C04916,cpd:C04666
+Biosynthesis of secondary metabolites,rn:R03457,cpd:C04666,cpd:C01267
+Biosynthesis of secondary metabolites,rn:R03243,cpd:C01100,cpd:C01267
+Biosynthesis of secondary metabolites,rn:R03013,cpd:C01100,cpd:C00860
+Biosynthesis of secondary metabolites,rn:R03012,cpd:C00860,cpd:C01929
+Biosynthesis of secondary metabolites,rn:R01163,cpd:C01929,cpd:C00135
+Biosynthesis of secondary metabolites,rn:R00489,cpd:C00049,cpd:C00099
+Biosynthesis of secondary metabolites,rn:R02473,"cpd:C00522, cpd:C00099",cpd:C00864
+Biosynthesis of secondary metabolites,rn:R01226,cpd:C00141,cpd:C00966
+Biosynthesis of secondary metabolites,rn:R02472,cpd:C00522,cpd:C00966
+Biosynthesis of secondary metabolites,rn:R00742,cpd:C00024,cpd:C00083
+Biosynthesis of secondary metabolites,rn:R01213,cpd:C02504,"cpd:C00141, cpd:C00024"
+Biosynthesis of secondary metabolites,rn:R00475,"cpd:C00160, cpd:C00007","cpd:C00027, cpd:C00048"
+Biosynthesis of secondary metabolites,rn:R01221,cpd:C00037,cpd:C00014
+Biosynthesis of secondary metabolites,rn:R02558,cpd:C00844,cpd:C00561
+Biosynthesis of secondary metabolites,rn:R10147,cpd:C00441,cpd:C20258
+Biosynthesis of secondary metabolites,rn:R03313,cpd:C01165,cpd:C03287
+Biosynthesis of secondary metabolites,rn:R08689,cpd:C11453,cpd:C11811
+Biosynthesis of secondary metabolites,rn:R08210,cpd:C00235,cpd:C11811
+Biosynthesis of secondary metabolites,rn:R02003,"cpd:C00341, cpd:C00129",cpd:C00448
+Biosynthesis of secondary metabolites,rn:R02061,"cpd:C00129, cpd:C00448",cpd:C00353
+Biosynthesis of secondary metabolites,rn:R01658,"cpd:C00129, cpd:C00235",cpd:C00341
+Biosynthesis of secondary metabolites,rn:R05884,cpd:C11811,cpd:C00129
+Biosynthesis of secondary metabolites,rn:R07411,cpd:C00032,cpd:C15672
+Biosynthesis of secondary metabolites,rn:R00842,cpd:C00093,cpd:C00111
+Biosynthesis of secondary metabolites,rn:R01797,cpd:C00416,cpd:C00269
+Biosynthesis of secondary metabolites,rn:R01800,cpd:C00269,cpd:C02737
+Biosynthesis of secondary metabolites,rn:R02055,cpd:C02737,cpd:C00350
+Biosynthesis of secondary metabolites,rn:R02052,cpd:C00350,cpd:C00641
+Biosynthesis of secondary metabolites,rn:R02239,cpd:C00641,cpd:C00416
+Biosynthesis of secondary metabolites,rn:R01312,cpd:C00157,cpd:C00641
+Biosynthesis of secondary metabolites,rn:R07891,cpd:C16331,cpd:C16330
+Biosynthesis of secondary metabolites,rn:R07895,cpd:C16335,cpd:C16334
+Biosynthesis of secondary metabolites,rn:R07899,cpd:C16339,cpd:C16338
+Biosynthesis of secondary metabolites,rn:R00479,cpd:C00311,cpd:C00048
+Biosynthesis of secondary metabolites,rn:R00472,cpd:C00149,cpd:C00048
+Biosynthesis of secondary metabolites,rn:R01771,cpd:C00263,cpd:C01102
+Biosynthesis of secondary metabolites,rn:R01466,cpd:C01102,cpd:C00188
+Biosynthesis of secondary metabolites,rn:R00586,cpd:C00065,cpd:C00979
+Biosynthesis of secondary metabolites,rn:R00897,cpd:C00979,cpd:C00097
+Biosynthesis of secondary metabolites,rn:R00772,cpd:C00275,cpd:C00085
+Biosynthesis of secondary metabolites,rn:R01818,cpd:C00275,cpd:C00636
+Biosynthesis of secondary metabolites,rn:R00885,cpd:C00636,cpd:C00096
+Biosynthesis of secondary metabolites,rn:R07281,cpd:C00199,cpd:C15556
+Biosynthesis of secondary metabolites,rn:R00425,cpd:C00044,cpd:C01304
+Biosynthesis of secondary metabolites,rn:R03459,cpd:C01304,cpd:C01268
+Biosynthesis of secondary metabolites,rn:R03458,cpd:C04454,cpd:C01268
+Biosynthesis of secondary metabolites,rn:R04457,"cpd:C15556, cpd:C04732",cpd:C04332
+Biosynthesis of secondary metabolites,rn:R00066,cpd:C04332,cpd:C00255
+Biosynthesis of secondary metabolites,rn:R00549,cpd:C00255,cpd:C00061
+Biosynthesis of secondary metabolites,rn:R00161,cpd:C00061,cpd:C00016
+Biosynthesis of secondary metabolites,rn:R00948,cpd:C00103,cpd:C00498
+Biosynthesis of secondary metabolites,rn:R02110,cpd:C00718,cpd:C00369
+Biosynthesis of secondary metabolites,rn:R11261,cpd:C00369,cpd:C01935
+Biosynthesis of secondary metabolites,rn:R02111,cpd:C00369,cpd:C00103
+Biosynthesis of secondary metabolites,rn:R02985,cpd:C00844,cpd:C08325
+Biosynthesis of secondary metabolites,rn:R01824,cpd:C01935,cpd:C06400
+Biosynthesis of secondary metabolites,rn:R11256,cpd:C06400,cpd:C01083
+Biosynthesis of secondary metabolites,rn:R04178,cpd:C03263,cpd:C05770
+Biosynthesis of secondary metabolites,rn:R11329,cpd:C21284,cpd:C05770
+Biosynthesis of secondary metabolites,rn:R11522,cpd:C21284,cpd:C00032
+Biosynthesis of secondary metabolites,rn:R02391,cpd:C00486,cpd:C00500
+Biosynthesis of secondary metabolites,rn:R08528,"cpd:C00341, cpd:C00129",cpd:C16826
+Biosynthesis of secondary metabolites,rn:R09244,cpd:C16826,cpd:C18321
+Biosynthesis of secondary metabolites,rn:R04972,cpd:C05766,cpd:C05768
+Biosynthesis of secondary metabolites,rn:R00851,cpd:C00093,cpd:C00681
+Biosynthesis of secondary metabolites,rn:R02241,cpd:C00416,cpd:C00681
+Biosynthesis of secondary metabolites,rn:R10880,cpd:C12323,cpd:C17355
+Biosynthesis of secondary metabolites,rn:R08639,cpd:C00103,cpd:C00092
+Biosynthesis of secondary metabolites,rn:R00299,cpd:C00092,cpd:C00031
+Biosynthesis of secondary metabolites,rn:R00771,cpd:C00092,cpd:C00085
+Biosynthesis of secondary metabolites,rn:R00801,cpd:C00089,cpd:C00095
+Biosynthesis of secondary metabolites,rn:R00287,cpd:C00029,cpd:C00103
+Biosynthesis of secondary metabolites,rn:R00292,cpd:C00029,cpd:C00718
+Biosynthesis of secondary metabolites,rn:R02737,cpd:C00029,cpd:C00689
+Biosynthesis of secondary metabolites,rn:R02778,cpd:C00689,cpd:C01083
+Biosynthesis of secondary metabolites,rn:R00010,cpd:C01083,cpd:C00031
+Biosynthesis of secondary metabolites,rn:R02112,cpd:C00369,"cpd:C00721, cpd:C00208"
+Biosynthesis of secondary metabolites,rn:R11262,cpd:C01935,cpd:C00208
+Biosynthesis of secondary metabolites,rn:R07324,cpd:C00092,cpd:C04006
+Biosynthesis of secondary metabolites,rn:R01187,cpd:C04006,cpd:C00137
+Biosynthesis of secondary metabolites,rn:R02328,cpd:C00103,cpd:C00842
+Biosynthesis of secondary metabolites,rn:R06513,cpd:C00842,cpd:C11907
+Biosynthesis of secondary metabolites,rn:R06514,cpd:C11907,cpd:C00688
+Biosynthesis of secondary metabolites,rn:R02777,cpd:C03319,cpd:C00688
+Biosynthesis of secondary metabolites,rn:R10279,cpd:C03187,cpd:C03319
+Biosynthesis of secondary metabolites,rn:R00927,"cpd:C00100, cpd:C00024",cpd:C03344
+Biosynthesis of secondary metabolites,rn:R06590,cpd:C12214,cpd:C12215
+Biosynthesis of secondary metabolites,rn:R11671,cpd:C00083,cpd:C05223
+Biosynthesis of secondary metabolites,rn:R12049,cpd:C02247,cpd:C21873
+Biosynthesis of secondary metabolites,rn:R00582,cpd:C00065,cpd:C01005
+Biosynthesis of secondary metabolites,rn:R05640,cpd:C01724,cpd:C11455
+Biosynthesis of secondary metabolites,rn:R03063,cpd:C00916,cpd:C04712
+Biosynthesis of secondary metabolites,rn:R00239,cpd:C00025,cpd:C03287
+Biosynthesis of secondary metabolites,rn:R00529,cpd:C00059,cpd:C00224
+Biosynthesis of secondary metabolites,rn:R01513,cpd:C00197,cpd:C03232
+Biosynthesis of secondary metabolites,rn:R04173,cpd:C01005,cpd:C03232
+Biosynthesis of secondary metabolites,rn:R08572,cpd:C00258,cpd:C00631
+Biosynthesis of secondary metabolites,rn:R00891,cpd:C00065,cpd:C00097
+Biosynthesis of secondary metabolites,rn:R01290,cpd:C00065,cpd:C02291
+Biosynthesis of secondary metabolites,rn:R01933,cpd:C00322,cpd:C00527
+Biosynthesis of secondary metabolites,rn:R02488,cpd:C00527,cpd:C00877
+Biosynthesis of secondary metabolites,rn:R03026,cpd:C01144,cpd:C00877
+Biosynthesis of secondary metabolites,rn:R01975,cpd:C01144,cpd:C00332
+Biosynthesis of secondary metabolites,rn:R01859,cpd:C00100,cpd:C00683
+Biosynthesis of secondary metabolites,rn:R00691,cpd:C00826,cpd:C00079
+Biosynthesis of secondary metabolites,rn:R06363,cpd:C00395,cpd:C06567
+Biosynthesis of secondary metabolites,rn:R00253,cpd:C00014,cpd:C00064
+Biosynthesis of secondary metabolites,rn:R00575,cpd:C00064,cpd:C00169
+Biosynthesis of secondary metabolites,rn:R01398,"cpd:C00077, cpd:C00169",cpd:C00327
+Biosynthesis of secondary metabolites,rn:R13266,"cpd:C22865, cpd:C01209",cpd:C22866
+Biosynthesis of secondary metabolites,rn:R13267,cpd:C22866,cpd:C22867
+Biosynthesis of secondary metabolites,rn:R13268,cpd:C22867,cpd:C22868
+Biosynthesis of secondary metabolites,rn:R13269,cpd:C22868,cpd:C22865
+Biosynthesis of secondary metabolites,rn:R13270,"cpd:C01209, cpd:C22869",cpd:C22870
+Biosynthesis of secondary metabolites,rn:R13271,cpd:C22870,cpd:C22871
+Biosynthesis of secondary metabolites,rn:R13272,cpd:C22871,cpd:C22872
+Biosynthesis of secondary metabolites,rn:R13273,cpd:C22872,cpd:C22869
+Biosynthesis of secondary metabolites,rn:R13274,cpd:C22873,cpd:C22874
+Biosynthesis of secondary metabolites,rn:R13275,"cpd:C22857, cpd:C22874, cpd:C01083",cpd:C22875
+Biosynthesis of secondary metabolites,rn:R13256,cpd:C20876,cpd:C22857
+Biosynthesis of secondary metabolites,rn:R13276,cpd:C22875,cpd:C22876
+Biosynthesis of secondary metabolites,rn:R13277,cpd:C22876,"cpd:C01083, cpd:C22877"
+Biosynthesis of secondary metabolites,rn:R13279,cpd:C22877,cpd:C22878
+Biosynthesis of secondary metabolites,rn:R01625,cpd:C03688,cpd:C00229
+Biosynthesis of secondary metabolites,rn:R01626,"cpd:C00229, cpd:C00083",cpd:C01209
+Biosynthesis of secondary metabolites,rn:R01920,"cpd:C00134, cpd:C01137",cpd:C00315
+Microbial metabolism in diverse environments,rn:R01061,cpd:C00118,cpd:C00236
+Microbial metabolism in diverse environments,rn:R01512,cpd:C00197,cpd:C00236
+Microbial metabolism in diverse environments,rn:R01518,cpd:C00631,cpd:C00197
+Microbial metabolism in diverse environments,rn:R00658,cpd:C00631,cpd:C00074
+Microbial metabolism in diverse environments,rn:R00199,cpd:C00022,cpd:C00074
+Microbial metabolism in diverse environments,rn:R00209,cpd:C00022,cpd:C00024
+Microbial metabolism in diverse environments,rn:R00959,cpd:C00103,cpd:C00668
+Microbial metabolism in diverse environments,rn:R13199,cpd:C00668,cpd:C00085
+Microbial metabolism in diverse environments,rn:R00756,cpd:C00085,cpd:C00354
+Microbial metabolism in diverse environments,rn:R01068,cpd:C00354,"cpd:C00118, cpd:C00111"
+Microbial metabolism in diverse environments,rn:R01015,cpd:C00118,cpd:C00111
+Microbial metabolism in diverse environments,rn:R00351,cpd:C00158,"cpd:C00036, cpd:C00024"
+Microbial metabolism in diverse environments,rn:R01899,cpd:C00311,cpd:C05379
+Microbial metabolism in diverse environments,rn:R00268,cpd:C05379,cpd:C00026
+Microbial metabolism in diverse environments,rn:R00267,cpd:C00311,cpd:C00026
+Microbial metabolism in diverse environments,rn:R08549,cpd:C00026,cpd:C00091
+Microbial metabolism in diverse environments,rn:R00405,cpd:C00042,cpd:C00091
+Microbial metabolism in diverse environments,rn:R00402,cpd:C00042,cpd:C00122
+Microbial metabolism in diverse environments,rn:R01082,cpd:C00149,cpd:C00122
+Microbial metabolism in diverse environments,rn:R00342,cpd:C00149,cpd:C00036
+Microbial metabolism in diverse environments,rn:R01067,"cpd:C00118, cpd:C00085","cpd:C00279, cpd:C00231"
+Microbial metabolism in diverse environments,rn:R08575,"cpd:C00118, cpd:C05382","cpd:C00085, cpd:C00279"
+Microbial metabolism in diverse environments,rn:R01641,"cpd:C00118, cpd:C05382","cpd:C00117, cpd:C00231"
+Microbial metabolism in diverse environments,rn:R01056,cpd:C00117,cpd:C00199
+Microbial metabolism in diverse environments,rn:R01529,cpd:C00199,cpd:C00231
+Microbial metabolism in diverse environments,rn:R02736,cpd:C01172,cpd:C01236
+Microbial metabolism in diverse environments,rn:R02035,cpd:C01236,cpd:C00345
+Microbial metabolism in diverse environments,rn:R01528,cpd:C00345,cpd:C00199
+Microbial metabolism in diverse environments,rn:R08572,cpd:C00258,cpd:C00631
+Microbial metabolism in diverse environments,rn:R01600,cpd:C00221,cpd:C01172
+Microbial metabolism in diverse environments,rn:R02739,cpd:C00668,cpd:C01172
+Microbial metabolism in diverse environments,rn:R01786,cpd:C00267,cpd:C00668
+Microbial metabolism in diverse environments,rn:R00341,cpd:C00036,cpd:C00074
+Microbial metabolism in diverse environments,rn:R00229,cpd:C00033,cpd:C00024
+Microbial metabolism in diverse environments,rn:R00710,cpd:C00084,cpd:C00033
+Microbial metabolism in diverse environments,rn:R00746,cpd:C00469,cpd:C00084
+Microbial metabolism in diverse environments,rn:R00344,cpd:C00022,cpd:C00036
+Microbial metabolism in diverse environments,rn:R00228,cpd:C00084,cpd:C00024
+Microbial metabolism in diverse environments,rn:R00750,"cpd:C00084, cpd:C00022",cpd:C03589
+Microbial metabolism in diverse environments,rn:R02601,cpd:C00596,cpd:C03589
+Microbial metabolism in diverse environments,rn:R00829,"cpd:C00091, cpd:C00024",cpd:C02232
+Microbial metabolism in diverse environments,rn:R05305,cpd:C06714,cpd:C06715
+Microbial metabolism in diverse environments,rn:R05586,cpd:C06715,cpd:C00527
+Microbial metabolism in diverse environments,rn:R03026,cpd:C01144,cpd:C00877
+Microbial metabolism in diverse environments,rn:R01975,cpd:C01144,cpd:C00332
+Microbial metabolism in diverse environments,rn:R03470,cpd:C01278,cpd:C03586
+Microbial metabolism in diverse environments,rn:R05369,cpd:C06597,cpd:C06598
+Microbial metabolism in diverse environments,rn:R05370,cpd:C06598,cpd:C06599
+Microbial metabolism in diverse environments,rn:R06838,cpd:C12838,cpd:C02222
+Microbial metabolism in diverse environments,rn:R05511,cpd:C04706,cpd:C06329
+Microbial metabolism in diverse environments,rn:R03893,cpd:C04431,cpd:C02222
+Microbial metabolism in diverse environments,rn:R07669,cpd:C06988,cpd:C16181
+Microbial metabolism in diverse environments,rn:R07670,cpd:C16181,cpd:C16182
+Microbial metabolism in diverse environments,rn:R00472,cpd:C00149,cpd:C00048
+Microbial metabolism in diverse environments,rn:R00479,cpd:C00311,cpd:C00048
+Microbial metabolism in diverse environments,rn:R00465,cpd:C00160,cpd:C00048
+Microbial metabolism in diverse environments,rn:R06835,cpd:C12834,cpd:C12835
+Microbial metabolism in diverse environments,rn:R05238,cpd:C16348,cpd:C06615
+Microbial metabolism in diverse environments,rn:R05234,cpd:C06612,cpd:C16348
+Microbial metabolism in diverse environments,rn:R05368,cpd:C06610,cpd:C06612
+Microbial metabolism in diverse environments,rn:R05237,cpd:C06613,cpd:C06614
+Microbial metabolism in diverse environments,rn:R05233,cpd:C06611,cpd:C06613
+Microbial metabolism in diverse environments,rn:R05367,cpd:C06609,cpd:C06611
+Microbial metabolism in diverse environments,rn:R06917,cpd:C14089,cpd:C14090
+Microbial metabolism in diverse environments,rn:R05506,cpd:C07118,cpd:C00512
+Microbial metabolism in diverse environments,rn:R01049,cpd:C00117,cpd:C00119
+Microbial metabolism in diverse environments,rn:R07836,cpd:C16281,cpd:C16283
+Microbial metabolism in diverse environments,rn:R07837,cpd:C16283,cpd:C16285
+Microbial metabolism in diverse environments,rn:R05590,cpd:C09815,cpd:C00180
+Microbial metabolism in diverse environments,rn:R05383,cpd:C02720,cpd:C01987
+Microbial metabolism in diverse environments,rn:R05551,cpd:C00511,cpd:C01659
+Microbial metabolism in diverse environments,rn:R02540,cpd:C02505,cpd:C07086
+Microbial metabolism in diverse environments,rn:R06941,cpd:C14145,cpd:C02232
+Microbial metabolism in diverse environments,rn:R06942,cpd:C14144,cpd:C14145
+Microbial metabolism in diverse environments,rn:R00945,cpd:C00037,cpd:C00065
+Microbial metabolism in diverse environments,rn:R09099,cpd:C00065,cpd:C04377
+Microbial metabolism in diverse environments,rn:R00582,cpd:C01005,cpd:C00065
+Microbial metabolism in diverse environments,rn:R04173,cpd:C01005,cpd:C03232
+Microbial metabolism in diverse environments,rn:R01513,cpd:C00197,cpd:C03232
+Microbial metabolism in diverse environments,rn:R00315,cpd:C00033,cpd:C00227
+Microbial metabolism in diverse environments,rn:R00230,cpd:C00024,cpd:C00227
+Microbial metabolism in diverse environments,rn:R06983,cpd:C14180,cpd:C01031
+Microbial metabolism in diverse environments,rn:R08120,cpd:C16477,cpd:C02222
+Microbial metabolism in diverse environments,rn:R08121,cpd:C16476,cpd:C02222
+Microbial metabolism in diverse environments,rn:R06927,cpd:C02909,cpd:C14099
+Microbial metabolism in diverse environments,rn:R00586,cpd:C00065,cpd:C00979
+Microbial metabolism in diverse environments,rn:R00897,"cpd:C00283, cpd:C00979","cpd:C00033, cpd:C00097"
+Microbial metabolism in diverse environments,rn:R00858,cpd:C00283,cpd:C00094
+Microbial metabolism in diverse environments,rn:R00529,cpd:C00059,cpd:C00224
+Microbial metabolism in diverse environments,rn:R00508,cpd:C00053,cpd:C00224
+Microbial metabolism in diverse environments,rn:R02021,cpd:C00053,cpd:C00094
+Microbial metabolism in diverse environments,rn:R00791,cpd:C00088,cpd:C00244
+Microbial metabolism in diverse environments,rn:R00787,cpd:C00014,cpd:C00088
+Microbial metabolism in diverse environments,rn:R00253,cpd:C00014,cpd:C00064
+Microbial metabolism in diverse environments,rn:R00021,cpd:C00025,cpd:C00064
+Microbial metabolism in diverse environments,rn:R05284,cpd:C06752,cpd:C06753
+Microbial metabolism in diverse environments,rn:R05286,cpd:C06754,cpd:C06755
+Microbial metabolism in diverse environments,rn:R05510,cpd:C07090,cpd:C07091
+Microbial metabolism in diverse environments,rn:R09136,cpd:C18242,cpd:C18243
+Microbial metabolism in diverse environments,rn:R09220,cpd:C18309,cpd:C18310
+Microbial metabolism in diverse environments,rn:R09222,cpd:C18304,cpd:C18305
+Microbial metabolism in diverse environments,rn:R08036,cpd:C16396,cpd:C16420
+Microbial metabolism in diverse environments,rn:R01466,cpd:C01102,cpd:C00188
+Microbial metabolism in diverse environments,rn:R01771,cpd:C00263,cpd:C01102
+Microbial metabolism in diverse environments,rn:R01773,cpd:C00263,cpd:C00441
+Microbial metabolism in diverse environments,rn:R02291,cpd:C00441,cpd:C03082
+Microbial metabolism in diverse environments,rn:R00480,cpd:C00049,cpd:C03082
+Microbial metabolism in diverse environments,rn:R10147,cpd:C00441,cpd:C20258
+Microbial metabolism in diverse environments,rn:R04198,cpd:C03972,cpd:C20258
+Microbial metabolism in diverse environments,rn:R04365,cpd:C03972,cpd:C04462
+Microbial metabolism in diverse environments,rn:R04475,cpd:C04421,cpd:C04462
+Microbial metabolism in diverse environments,rn:R02734,cpd:C04421,cpd:C00666
+Microbial metabolism in diverse environments,rn:R02735,cpd:C00666,cpd:C00680
+Microbial metabolism in diverse environments,rn:R00451,cpd:C00680,cpd:C00047
+Microbial metabolism in diverse environments,rn:R00131,cpd:C00086,"cpd:C00014, cpd:C00011"
+Microbial metabolism in diverse environments,rn:R01421,cpd:C06206,cpd:C00180
+Microbial metabolism in diverse environments,rn:R06782,cpd:C05629,cpd:C11588
+Microbial metabolism in diverse environments,rn:R06783,cpd:C00423,cpd:C12622
+Microbial metabolism in diverse environments,rn:R00713,cpd:C00232,cpd:C00042
+Microbial metabolism in diverse environments,rn:R01829,cpd:C00447,"cpd:C00279, cpd:C00111"
+Microbial metabolism in diverse environments,rn:R00206,cpd:C00022,cpd:C00074
+Microbial metabolism in diverse environments,rn:R00833,cpd:C01213,cpd:C00091
+Microbial metabolism in diverse environments,rn:R02765,cpd:C01213,cpd:C00683
+Microbial metabolism in diverse environments,rn:R01859,cpd:C00100,cpd:C00683
+Microbial metabolism in diverse environments,rn:R00742,cpd:C00024,cpd:C00083
+Microbial metabolism in diverse environments,rn:R01220,cpd:C00143,cpd:C00445
+Microbial metabolism in diverse environments,rn:R01655,cpd:C00445,cpd:C00234
+Microbial metabolism in diverse environments,rn:R00238,cpd:C00024,cpd:C00332
+Microbial metabolism in diverse environments,rn:R09397,cpd:C19156,cpd:C19155
+Microbial metabolism in diverse environments,rn:R09399,cpd:C19153,cpd:C19152
+Microbial metabolism in diverse environments,rn:R09400,cpd:C19152,cpd:C00876
+Microbial metabolism in diverse environments,rn:R09398,"cpd:C19154, cpd:C19155",cpd:C19153
+Microbial metabolism in diverse environments,rn:R12162,cpd:C21971,cpd:C19154
+Microbial metabolism in diverse environments,rn:R09883,cpd:C04844,"cpd:C11354, cpd:C20199"
+Microbial metabolism in diverse environments,rn:R04597,cpd:C04793,cpd:C04844
+Microbial metabolism in diverse environments,rn:R09819,cpd:C19944,cpd:C04793
+Microbial metabolism in diverse environments,rn:R09860,cpd:C20144,cpd:C14909
+Microbial metabolism in diverse environments,rn:R09884,cpd:C00280,cpd:C20144
+Microbial metabolism in diverse environments,rn:R09955,cpd:C20252,cpd:C00280
+Microbial metabolism in diverse environments,rn:R09979,cpd:C18026,cpd:C20238
+Microbial metabolism in diverse environments,rn:R09030,cpd:C02962,cpd:C18096
+Microbial metabolism in diverse environments,rn:R01931,cpd:C00320,cpd:C00094
+Microbial metabolism in diverse environments,rn:R02262,cpd:C01099,"cpd:C00424, cpd:C00111"
+Microbial metabolism in diverse environments,rn:R02568,cpd:C01094,cpd:C00111
+Microbial metabolism in diverse environments,rn:R01712,cpd:C00534,cpd:C00250
+Microbial metabolism in diverse environments,rn:R01708,cpd:C00314,cpd:C00250
+Microbial metabolism in diverse environments,rn:R02488,cpd:C00527,cpd:C00877
+Microbial metabolism in diverse environments,rn:R10769,cpd:C20199,cpd:C20838
+Microbial metabolism in diverse environments,rn:R01648,cpd:C00334,cpd:C00232
+Microbial metabolism in diverse environments,rn:R00261,cpd:C00025,cpd:C00334
+Microbial metabolism in diverse environments,rn:R01459,cpd:C00187,cpd:C00599
+Microbial metabolism in diverse environments,rn:R11357,cpd:C00599,cpd:C21076
+Microbial metabolism in diverse environments,rn:R11361,cpd:C00599,cpd:C20839
+Microbial metabolism in diverse environments,rn:R01172,cpd:C01412,cpd:C00136
+Microbial metabolism in diverse environments,rn:R05578,cpd:C00025,cpd:C02987
+Microbial metabolism in diverse environments,rn:R04109,cpd:C02987,cpd:C03741
+Microbial metabolism in diverse environments,rn:R02272,cpd:C03741,cpd:C00430
+Microbial metabolism in diverse environments,rn:R00036,cpd:C00430,cpd:C00931
+Microbial metabolism in diverse environments,rn:R00084,cpd:C00931,cpd:C01024
+Microbial metabolism in diverse environments,rn:R03165,cpd:C01024,cpd:C01051
+Microbial metabolism in diverse environments,rn:R03194,cpd:C01051,cpd:C02463
+Microbial metabolism in diverse environments,rn:R03947,cpd:C02463,cpd:C05778
+Microbial metabolism in diverse environments,rn:R00243,cpd:C00025,cpd:C00026
+Microbial metabolism in diverse environments,rn:R12161,cpd:C04732,cpd:C21971
+Microbial metabolism in diverse environments,rn:R02274,cpd:C00431,cpd:C03273
+Microbial metabolism in diverse environments,rn:R02401,cpd:C03273,cpd:C00489
+Microbial metabolism in diverse environments,rn:R12646,cpd:C00074,cpd:C22297
+Microbial metabolism in diverse environments,rn:R12648,"cpd:C19154, cpd:C22297",cpd:C22277
+Microbial metabolism in diverse environments,rn:R12720,cpd:C22277,cpd:C19153
+Microbial metabolism in diverse environments,rn:R10152,cpd:C00283,cpd:C19692
+Microbial metabolism in diverse environments,rn:R03102,cpd:C04076,cpd:C00956
+Microbial metabolism in diverse environments,rn:R08095,cpd:C16471,cpd:C03069
+Microbial metabolism in diverse environments,rn:R08094,cpd:C16469,cpd:C16471
+Microbial metabolism in diverse environments,rn:R08093,cpd:C16468,cpd:C16469
+Microbial metabolism in diverse environments,rn:R08091,cpd:C16466,"cpd:C16470, cpd:C00024"
+Microbial metabolism in diverse environments,rn:R06398,cpd:C06099,cpd:C07271
+Microbial metabolism in diverse environments,rn:R05784,cpd:C07271,cpd:C07276
+Microbial metabolism in diverse environments,rn:R09385,cpd:C00521,cpd:C19081
+Microbial metabolism in diverse environments,rn:R09387,cpd:C19081,cpd:C19082
+Microbial metabolism in diverse environments,rn:R13327,cpd:C09822,cpd:C04404
+Carbon metabolism,rn:R01518,cpd:C00631,cpd:C00197
+Carbon metabolism,rn:R01512,cpd:C00197,cpd:C00236
+Carbon metabolism,rn:R01061,cpd:C00118,cpd:C00236
+Carbon metabolism,rn:R01068,cpd:C00354,"cpd:C00118, cpd:C00111"
+Carbon metabolism,rn:R00762,cpd:C00354,cpd:C00085
+Carbon metabolism,rn:R01067,"cpd:C00118, cpd:C00085","cpd:C00231, cpd:C00279"
+Carbon metabolism,rn:R01829,"cpd:C00111, cpd:C00279",cpd:C00447
+Carbon metabolism,rn:R01641,"cpd:C00118, cpd:C05382","cpd:C00231, cpd:C00117"
+Carbon metabolism,rn:R01529,cpd:C00199,cpd:C00231
+Carbon metabolism,rn:R00756,cpd:C00085,cpd:C00354
+Carbon metabolism,rn:R01786,cpd:C00267 cpd:C00221,cpd:C00668 cpd:C01172
+Carbon metabolism,rn:R13199,cpd:C00668 cpd:C01172,cpd:C00085
+Carbon metabolism,rn:R02736,cpd:C00668 cpd:C01172,cpd:C01236
+Carbon metabolism,rn:R02035,cpd:C01236,cpd:C00345
+Carbon metabolism,rn:R01528,cpd:C00345,cpd:C00199
+Carbon metabolism,rn:R01056,cpd:C00117,cpd:C00199
+Carbon metabolism,rn:R01015,cpd:C00118,cpd:C00111
+Carbon metabolism,rn:R08575,"cpd:C00118, cpd:C05382","cpd:C00279, cpd:C00085"
+Carbon metabolism,rn:R00658,cpd:C00631,cpd:C00074
+Carbon metabolism,rn:R00200,cpd:C00074,cpd:C00022
+Carbon metabolism,rn:R00199,cpd:C00022,cpd:C00074
+Carbon metabolism,rn:R00209,cpd:C00022,cpd:C00024
+Carbon metabolism,rn:R00351,cpd:C00158,"cpd:C00036, cpd:C00024"
+Carbon metabolism,rn:R00342,cpd:C00149,cpd:C00036
+Carbon metabolism,rn:R01082,cpd:C00149,cpd:C00122
+Carbon metabolism,rn:R02164,cpd:C00042,cpd:C00122
+Carbon metabolism,rn:R00405,cpd:C00042,cpd:C00091
+Carbon metabolism,rn:R01197,"cpd:C00011, cpd:C00091",cpd:C00026
+Carbon metabolism,rn:R00267,cpd:C00311,cpd:C00026
+Carbon metabolism,rn:R01859,cpd:C00100,cpd:C00683
+Carbon metabolism,rn:R02765,cpd:C00683,cpd:C01213
+Carbon metabolism,rn:R00833,cpd:C01213,cpd:C00091
+Carbon metabolism,rn:R01975,cpd:C01144,cpd:C00332
+Carbon metabolism,rn:R00238,cpd:C00332,cpd:C00024
+Carbon metabolism,rn:R01513,cpd:C00197,cpd:C03232
+Carbon metabolism,rn:R04173,cpd:C03232,cpd:C01005
+Carbon metabolism,rn:R00582,cpd:C01005,cpd:C00065
+Carbon metabolism,rn:R00945,"cpd:C00037, cpd:C00143","cpd:C00065, cpd:C00101"
+Carbon metabolism,rn:R01655,cpd:C00234,cpd:C00445
+Carbon metabolism,rn:R01220,cpd:C00445,cpd:C00143
+Carbon metabolism,rn:R00479,cpd:C00311,"cpd:C00048, cpd:C00042"
+Carbon metabolism,rn:R01049,cpd:C00117,cpd:C00119
+Carbon metabolism,rn:R00220,cpd:C00065,"cpd:C00014, cpd:C00022"
+Carbon metabolism,rn:R00604,cpd:C00067,cpd:C00058
+Carbon metabolism,rn:R00586,cpd:C00065,cpd:C00979
+Carbon metabolism,rn:R00897,"cpd:C00979, cpd:C00283",cpd:C00097
+Carbon metabolism,rn:R00344,cpd:C00022,cpd:C00036
+Carbon metabolism,rn:R08549,cpd:C00026,cpd:C00091
+Carbon metabolism,rn:R00472,cpd:C00149,"cpd:C00048, cpd:C00024"
+Carbon metabolism,rn:R00214,cpd:C00149,cpd:C00022
+Carbon metabolism,rn:R00705,cpd:C00222,cpd:C00024
+Carbon metabolism,rn:R00230,cpd:C00024,cpd:C00227
+Carbon metabolism,rn:R00315,cpd:C00033,cpd:C00227
+Carbon metabolism,rn:R00235,cpd:C00033,cpd:C00024
+Carbon metabolism,rn:R00361,cpd:C00149,cpd:C00036
+Carbon metabolism,rn:R09979,cpd:C18026,cpd:C20238
+2-Oxocarboxylic acid metabolism,rn:R00480,cpd:C00049,cpd:C03082
+2-Oxocarboxylic acid metabolism,rn:R00351,cpd:C00036,cpd:C00158
+2-Oxocarboxylic acid metabolism,rn:R00355,cpd:C00026,cpd:C00025
+2-Oxocarboxylic acid metabolism,rn:R00259,cpd:C00025,cpd:C00624
+2-Oxocarboxylic acid metabolism,rn:R01899,cpd:C00311,cpd:C05379
+2-Oxocarboxylic acid metabolism,rn:R00268,cpd:C05379,cpd:C00026
+2-Oxocarboxylic acid metabolism,rn:R00709,cpd:C00311,cpd:C00026
+2-Oxocarboxylic acid metabolism,rn:R02291,cpd:C03082,cpd:C00441
+2-Oxocarboxylic acid metabolism,rn:R02649,cpd:C00624,cpd:C04133
+2-Oxocarboxylic acid metabolism,rn:R03443,cpd:C04133,cpd:C01250
+2-Oxocarboxylic acid metabolism,rn:R02283,cpd:C01250,cpd:C00437
+2-Oxocarboxylic acid metabolism,rn:R00669,cpd:C00437,cpd:C00077
+2-Oxocarboxylic acid metabolism,rn:R00994,cpd:C06032,cpd:C00109
+2-Oxocarboxylic acid metabolism,rn:R03898,cpd:C02226,cpd:C06032
+2-Oxocarboxylic acid metabolism,rn:R03896,cpd:C02612,cpd:C02226
+2-Oxocarboxylic acid metabolism,rn:R00226,cpd:C00022,cpd:C06010
+2-Oxocarboxylic acid metabolism,rn:R05071,cpd:C06010,cpd:C04181
+2-Oxocarboxylic acid metabolism,rn:R04440,cpd:C04181,cpd:C04272
+2-Oxocarboxylic acid metabolism,rn:R04441,cpd:C04272,cpd:C00141
+2-Oxocarboxylic acid metabolism,rn:R01214,cpd:C00141,cpd:C00183
+2-Oxocarboxylic acid metabolism,rn:R10052,cpd:C04411,cpd:C00233
+2-Oxocarboxylic acid metabolism,rn:R04001,cpd:C02631,cpd:C04411
+2-Oxocarboxylic acid metabolism,rn:R03968,cpd:C02504,cpd:C02631
+2-Oxocarboxylic acid metabolism,rn:R01213,cpd:C00141,cpd:C02504
+2-Oxocarboxylic acid metabolism,rn:R01090,cpd:C00233,cpd:C00123
+2-Oxocarboxylic acid metabolism,rn:R02199,cpd:C00671,cpd:C00407
+2-Oxocarboxylic acid metabolism,rn:R05070,cpd:C06007,cpd:C00671
+2-Oxocarboxylic acid metabolism,rn:R05068,cpd:C14463,cpd:C06007
+2-Oxocarboxylic acid metabolism,rn:R05069,cpd:C06006,cpd:C14463
+2-Oxocarboxylic acid metabolism,rn:R08648,cpd:C00109,cpd:C06006
+2-Oxocarboxylic acid metabolism,rn:R08620,cpd:C17210,cpd:C17212
+2-Oxocarboxylic acid metabolism,rn:R08628,cpd:C17218,cpd:C17219
+2-Oxocarboxylic acid metabolism,rn:R08634,cpd:C17222,cpd:C17223
+2-Oxocarboxylic acid metabolism,rn:R08641,cpd:C17226,cpd:C17227
+2-Oxocarboxylic acid metabolism,rn:R08645,cpd:C17230,cpd:C17231
+2-Oxocarboxylic acid metabolism,rn:R04426,cpd:C04411,cpd:C04236
+2-Oxocarboxylic acid metabolism,rn:R01652,cpd:C04236,cpd:C00233
+2-Oxocarboxylic acid metabolism,rn:R08624,cpd:C17214,cpd:C17215
+2-Oxocarboxylic acid metabolism,rn:R10170,cpd:C02504,cpd:C04411
+2-Oxocarboxylic acid metabolism,rn:R00369,cpd:C00041,cpd:C00022
+2-Oxocarboxylic acid metabolism,rn:R08549,cpd:C00026,cpd:C00091
+2-Oxocarboxylic acid metabolism,rn:R01933,cpd:C00322,cpd:C00527
+2-Oxocarboxylic acid metabolism,rn:R01651,cpd:C00233,cpd:C02939
+2-Oxocarboxylic acid metabolism,rn:R01210,cpd:C00141,cpd:C00630
+2-Oxocarboxylic acid metabolism,rn:R00209,cpd:C00022,cpd:C00024
+2-Oxocarboxylic acid metabolism,rn:R03171,cpd:C00671,cpd:C15980
+2-Oxocarboxylic acid metabolism,rn:R10991,cpd:C00109,cpd:C02356
+Fatty acid metabolism,rn:R01624,cpd:C00024,cpd:C03939
+Fatty acid metabolism,rn:R04355,"cpd:C03939, cpd:C01209",cpd:C05744
+Fatty acid metabolism,rn:R04533,cpd:C05744,cpd:C04618
+Fatty acid metabolism,rn:R04428,cpd:C04618,cpd:C04246
+Fatty acid metabolism,rn:R04429,cpd:C04246,cpd:C05745
+Fatty acid metabolism,rn:R04952,cpd:C05745,cpd:C05746
+Fatty acid metabolism,rn:R04953,cpd:C05746,cpd:C05747
+Fatty acid metabolism,rn:R04954,cpd:C05747,cpd:C05748
+Fatty acid metabolism,rn:R04955,cpd:C05748,cpd:C05749
+Fatty acid metabolism,rn:R04957,cpd:C05749,cpd:C05750
+Fatty acid metabolism,rn:R04960,cpd:C05752,cpd:C05753
+Fatty acid metabolism,rn:R04958,cpd:C05751,cpd:C05752
+Fatty acid metabolism,rn:R04537,cpd:C04620,cpd:C05751
+Fatty acid metabolism,rn:R04536,cpd:C05750,cpd:C04620
+Fatty acid metabolism,rn:R04963,cpd:C05755,cpd:C05756
+Fatty acid metabolism,rn:R04961,cpd:C05754,cpd:C05755
+Fatty acid metabolism,rn:R04535,cpd:C04619,cpd:C05754
+Fatty acid metabolism,rn:R04534,cpd:C05753,cpd:C04619
+Fatty acid metabolism,rn:R04726,cpd:C05223,cpd:C05759
+Fatty acid metabolism,rn:R04724,cpd:C05758,cpd:C05223
+Fatty acid metabolism,rn:R04965,cpd:C05757,cpd:C05758
+Fatty acid metabolism,rn:R04964,cpd:C05756,cpd:C05757
+Fatty acid metabolism,rn:R04968,cpd:C05761,cpd:C05762
+Fatty acid metabolism,rn:R04966,cpd:C05760,cpd:C05761
+Fatty acid metabolism,rn:R04568,cpd:C04688,cpd:C05760
+Fatty acid metabolism,rn:R04566,cpd:C05759,cpd:C04688
+Fatty acid metabolism,rn:R04969,cpd:C05763,cpd:C05764
+Fatty acid metabolism,rn:R04544,cpd:C04633,cpd:C05763
+Fatty acid metabolism,rn:R04543,cpd:C05762,cpd:C04633
+Fatty acid metabolism,rn:R07762,cpd:C05764,cpd:C16219
+Fatty acid metabolism,rn:R07763,cpd:C16219,cpd:C16220
+Fatty acid metabolism,rn:R07764,cpd:C16220,cpd:C16221
+Fatty acid metabolism,rn:R07765,cpd:C16221,cpd:C00412 cpd:C04088
+Fatty acid metabolism,rn:R04738,cpd:C05258,cpd:C05272
+Fatty acid metabolism,rn:R04737,cpd:C05258,cpd:C05259
+Fatty acid metabolism,rn:R03991,cpd:C02593,cpd:C05259
+Fatty acid metabolism,rn:R04740,cpd:C05260,cpd:C05273
+Fatty acid metabolism,rn:R04739,cpd:C05260,cpd:C05261
+Fatty acid metabolism,rn:R03858,cpd:C01832,cpd:C05261
+Fatty acid metabolism,rn:R04170,cpd:C05262,cpd:C03221
+Fatty acid metabolism,rn:R04741,cpd:C05262,cpd:C05263
+Fatty acid metabolism,rn:R04742,cpd:C05274,cpd:C05263
+Fatty acid metabolism,rn:R04744,cpd:C05264,cpd:C05275
+Fatty acid metabolism,rn:R04743,cpd:C05264,cpd:C05265
+Fatty acid metabolism,rn:R03778,cpd:C01944,cpd:C05265
+Fatty acid metabolism,rn:R04746,cpd:C05266,cpd:C05276
+Fatty acid metabolism,rn:R04745,cpd:C05266,cpd:C05267
+Fatty acid metabolism,rn:R04747,cpd:C05270,cpd:C05267
+Fatty acid metabolism,rn:R04749,cpd:C05268,cpd:C05271
+Fatty acid metabolism,rn:R04748,cpd:C05268,cpd:C05269
+Fatty acid metabolism,rn:R01177,cpd:C00136,cpd:C05269
+Fatty acid metabolism,rn:R03026,cpd:C01144,cpd:C00877
+Fatty acid metabolism,rn:R01975,cpd:C01144,cpd:C00332
+Fatty acid metabolism,rn:R00238,"cpd:C00024, cpd:C00024",cpd:C00332
+Fatty acid metabolism,rn:R00742,cpd:C00024,cpd:C00083
+Fatty acid metabolism,rn:R01280,cpd:C00249,cpd:C00154
+Fatty acid metabolism,rn:R04751,cpd:C05270,cpd:C05271
+Fatty acid metabolism,rn:R03777,cpd:C01944,cpd:C05276
+Fatty acid metabolism,rn:R04754,cpd:C05274,cpd:C05275
+Fatty acid metabolism,rn:R03857,cpd:C01832,cpd:C03221
+Fatty acid metabolism,rn:R03990,cpd:C02593,cpd:C05273
+Fatty acid metabolism,rn:R01279,"cpd:C00154, cpd:C00154",cpd:C05272
+Fatty acid metabolism,rn:R10700,cpd:C05764,cpd:C00154
+Fatty acid metabolism,rn:R01626,"cpd:C00229, cpd:C00083",cpd:C01209
+Biosynthesis of amino acids,rn:R01015,cpd:C00118,cpd:C00111
+Biosynthesis of amino acids,rn:R01061,cpd:C00118,cpd:C00236
+Biosynthesis of amino acids,rn:R01512,cpd:C00197,cpd:C00236
+Biosynthesis of amino acids,rn:R01518,cpd:C00631,cpd:C00197
+Biosynthesis of amino acids,rn:R00658,cpd:C00631,cpd:C00074
+Biosynthesis of amino acids,rn:R00200,cpd:C00074,cpd:C00022
+Biosynthesis of amino acids,rn:R01068,cpd:C00354,"cpd:C00118, cpd:C00111"
+Biosynthesis of amino acids,rn:R00756,cpd:C00085,cpd:C00354
+Biosynthesis of amino acids,rn:R01067,cpd:C00085,"cpd:C00279, cpd:C00231"
+Biosynthesis of amino acids,rn:R01529,cpd:C00199,cpd:C00231
+Biosynthesis of amino acids,rn:R01056,cpd:C00117,cpd:C00199
+Biosynthesis of amino acids,rn:R01049,cpd:C00117,cpd:C00119
+Biosynthesis of amino acids,rn:R00994,cpd:C06032,cpd:C00109
+Biosynthesis of amino acids,rn:R00226,cpd:C00022,cpd:C06010
+Biosynthesis of amino acids,rn:R04441,cpd:C04272,cpd:C00141
+Biosynthesis of amino acids,rn:R01214,cpd:C00183,cpd:C00141
+Biosynthesis of amino acids,rn:R08648,cpd:C00109,cpd:C06006
+Biosynthesis of amino acids,rn:R05070,cpd:C06007,cpd:C00671
+Biosynthesis of amino acids,rn:R02199,cpd:C00407,cpd:C00671
+Biosynthesis of amino acids,rn:R01213,cpd:C00141,cpd:C02504
+Biosynthesis of amino acids,rn:R10170,cpd:C02504,cpd:C04411
+Biosynthesis of amino acids,rn:R10052,cpd:C04411,cpd:C00233
+Biosynthesis of amino acids,rn:R01090,cpd:C00123,cpd:C00233
+Biosynthesis of amino acids,rn:R00996,cpd:C00188,cpd:C00109
+Biosynthesis of amino acids,rn:R00220,cpd:C00065,cpd:C00022
+Biosynthesis of amino acids,rn:R00945,cpd:C00037,cpd:C00065
+Biosynthesis of amino acids,rn:R01513,cpd:C00197,cpd:C03232
+Biosynthesis of amino acids,rn:R04173,cpd:C01005,cpd:C03232
+Biosynthesis of amino acids,rn:R00582,cpd:C01005,cpd:C00065
+Biosynthesis of amino acids,rn:R00586,cpd:C00065,cpd:C00979
+Biosynthesis of amino acids,rn:R00897,cpd:C00979,cpd:C00097
+Biosynthesis of amino acids,rn:R01466,cpd:C01102,cpd:C00188
+Biosynthesis of amino acids,rn:R01771,cpd:C00263,cpd:C01102
+Biosynthesis of amino acids,rn:R01773,cpd:C00441,cpd:C00263
+Biosynthesis of amino acids,rn:R02291,cpd:C03082,cpd:C00441
+Biosynthesis of amino acids,rn:R00480,cpd:C00049,cpd:C03082
+Biosynthesis of amino acids,rn:R01777,cpd:C00263,cpd:C01118
+Biosynthesis of amino acids,rn:R03260,cpd:C01118,cpd:C02291
+Biosynthesis of amino acids,rn:R01286,cpd:C02291,cpd:C00155
+Biosynthesis of amino acids,rn:R00946,cpd:C00155,cpd:C00073
+Biosynthesis of amino acids,rn:R00351,cpd:C00036,cpd:C00158
+Biosynthesis of amino acids,rn:R00267,cpd:C00311,cpd:C00026
+Biosynthesis of amino acids,rn:R00355,cpd:C00026,cpd:C00025
+Biosynthesis of amino acids,rn:R00344,cpd:C00022,cpd:C00036
+Biosynthesis of amino acids,rn:R00259,cpd:C00025,cpd:C00624
+Biosynthesis of amino acids,rn:R02649,cpd:C00624,cpd:C04133
+Biosynthesis of amino acids,rn:R03443,cpd:C04133,cpd:C01250
+Biosynthesis of amino acids,rn:R02283,cpd:C01250,cpd:C00437
+Biosynthesis of amino acids,rn:R00669,cpd:C00437,cpd:C00077
+Biosynthesis of amino acids,rn:R01398,"cpd:C00169, cpd:C00077",cpd:C00327
+Biosynthesis of amino acids,rn:R01954,cpd:C00327,cpd:C03406
+Biosynthesis of amino acids,rn:R01086,cpd:C03406,cpd:C00062
+Biosynthesis of amino acids,rn:R00239,cpd:C00025,cpd:C03287
+Biosynthesis of amino acids,rn:R03313,cpd:C03287,cpd:C01165
+Biosynthesis of amino acids,rn:R01248,cpd:C03912,cpd:C00148
+Biosynthesis of amino acids,rn:R10147,cpd:C00441,cpd:C20258
+Biosynthesis of amino acids,rn:R00258,cpd:C00041,cpd:C00022
+Biosynthesis of amino acids,rn:R00253,cpd:C00025,cpd:C00064
+Biosynthesis of amino acids,rn:R00483,cpd:C00049,cpd:C00152
+Biosynthesis of amino acids,rn:R04198,cpd:C20258,cpd:C03972
+Biosynthesis of amino acids,rn:R04475,cpd:C04462,cpd:C04421
+Biosynthesis of amino acids,rn:R02734,cpd:C04421,cpd:C00666
+Biosynthesis of amino acids,rn:R02735,cpd:C00666,cpd:C00680
+Biosynthesis of amino acids,rn:R00451,cpd:C00680,cpd:C00047
+Biosynthesis of amino acids,rn:R04365,cpd:C03972,cpd:C04462
+Biosynthesis of amino acids,rn:R00114,cpd:C00064,cpd:C00025
+Biosynthesis of amino acids,rn:R08575,cpd:C05382,cpd:C00279
+Biosynthesis of amino acids,rn:R01641,cpd:C05382,"cpd:C00231, cpd:C00117"
+Biosynthesis of amino acids,rn:R01071,cpd:C00119,cpd:C02739
+Biosynthesis of amino acids,rn:R04035,cpd:C02739,cpd:C02741
+Biosynthesis of amino acids,rn:R04037,cpd:C02741,cpd:C04896
+Biosynthesis of amino acids,rn:R04640,cpd:C04896,cpd:C04916
+Biosynthesis of amino acids,rn:R03457,cpd:C04666,cpd:C01267
+Biosynthesis of amino acids,rn:R03243,cpd:C01267,cpd:C01100
+Biosynthesis of amino acids,rn:R03013,cpd:C01100,cpd:C00860
+Biosynthesis of amino acids,rn:R04558,cpd:C04916,cpd:C04666
+Biosynthesis of amino acids,rn:R01158,cpd:C00860,cpd:C00135
+Biosynthesis of amino acids,rn:R01826,"cpd:C00279, cpd:C00074",cpd:C04691
+Biosynthesis of amino acids,rn:R03083,cpd:C04691,cpd:C00944
+Biosynthesis of amino acids,rn:R03084,cpd:C00944,cpd:C02637
+Biosynthesis of amino acids,rn:R02412,cpd:C00493,cpd:C03175
+Biosynthesis of amino acids,rn:R03460,cpd:C03175,cpd:C01269
+Biosynthesis of amino acids,rn:R01714,cpd:C01269,cpd:C00251
+Biosynthesis of amino acids,rn:R01715,cpd:C00251,cpd:C00254
+Biosynthesis of amino acids,rn:R01728,cpd:C00254,cpd:C01179
+Biosynthesis of amino acids,rn:R01373,cpd:C00254,cpd:C00166
+Biosynthesis of amino acids,rn:R00985,cpd:C00251,cpd:C00108
+Biosynthesis of amino acids,rn:R01073,cpd:C00108,cpd:C04302
+Biosynthesis of amino acids,rn:R03509,cpd:C04302,cpd:C01302
+Biosynthesis of amino acids,rn:R03508,cpd:C01302,cpd:C03506
+Biosynthesis of amino acids,rn:R02722,cpd:C03506,cpd:C00078
+Biosynthesis of amino acids,rn:R00177,cpd:C00073,cpd:C00019
+Biosynthesis of amino acids,rn:R00194,cpd:C00021,cpd:C03539
+Biosynthesis of amino acids,rn:R01290,cpd:C00065,cpd:C02291
+Nucleotide metabolism,rn:R03530,cpd:C01344,cpd:C01345
+Nucleotide metabolism,rn:R03531,cpd:C01345,cpd:C06196
+Nucleotide metabolism,rn:R02556,cpd:C00559,cpd:C05512
+Nucleotide metabolism,rn:R01547,cpd:C00360,cpd:C00206
+Nucleotide metabolism,rn:R01137,cpd:C00206,cpd:C00131
+Nucleotide metabolism,rn:R02557,cpd:C00559,cpd:C00147
+Nucleotide metabolism,rn:R01561,cpd:C00212,cpd:C00147
+Nucleotide metabolism,rn:R01245,cpd:C00212,cpd:C00147
+Nucleotide metabolism,rn:R01560,cpd:C00212,cpd:C00294
+Nucleotide metabolism,rn:R00185,cpd:C00212,cpd:C00020
+Nucleotide metabolism,rn:R00190,cpd:C00147,cpd:C00020
+Nucleotide metabolism,rn:R00127,cpd:C00020,cpd:C00008
+Nucleotide metabolism,rn:R02017,cpd:C00008,cpd:C00206
+Nucleotide metabolism,rn:R00331,cpd:C00002,cpd:C00008
+Nucleotide metabolism,rn:R00087,cpd:C00002,cpd:C00020
+Nucleotide metabolism,rn:R01132,cpd:C00262,cpd:C00130
+Nucleotide metabolism,rn:R02748,cpd:C05512,cpd:C00262
+Nucleotide metabolism,rn:R01863,cpd:C00294,cpd:C00262
+Nucleotide metabolism,rn:R01770,cpd:C00294,cpd:C00262
+Nucleotide metabolism,rn:R01130,cpd:C00130,cpd:C00655
+Nucleotide metabolism,rn:R01135,cpd:C00130,cpd:C03794
+Nucleotide metabolism,rn:R01083,cpd:C03794,cpd:C00020
+Nucleotide metabolism,rn:R00722,cpd:C00104,cpd:C00081
+Nucleotide metabolism,rn:R00720,cpd:C00081,cpd:C00130
+Nucleotide metabolism,rn:R02297,cpd:C01762,cpd:C00385
+Nucleotide metabolism,rn:R02143,cpd:C01762,cpd:C00385
+Nucleotide metabolism,rn:R02142,cpd:C00385,cpd:C00655
+Nucleotide metabolism,rn:R02720,cpd:C00700,cpd:C00655
+Nucleotide metabolism,rn:R01229,cpd:C00242,cpd:C00144
+Nucleotide metabolism,rn:R02147,cpd:C00387,cpd:C00242
+Nucleotide metabolism,rn:R01677,cpd:C00387,cpd:C00242
+Nucleotide metabolism,rn:R01134,cpd:C00144,cpd:C00130
+Nucleotide metabolism,rn:R01230,cpd:C00655,cpd:C00144
+Nucleotide metabolism,rn:R00332,cpd:C00144,cpd:C00035
+Nucleotide metabolism,rn:R00330,cpd:C00035,cpd:C00044
+Nucleotide metabolism,rn:R02019,cpd:C00035,cpd:C00361
+Nucleotide metabolism,rn:R00426,cpd:C00044,cpd:C00144
+Nucleotide metabolism,rn:R01969,cpd:C00330,cpd:C00242
+Nucleotide metabolism,rn:R02090,cpd:C00362,cpd:C00361
+Nucleotide metabolism,rn:R01857,cpd:C00361,cpd:C00286
+Nucleotide metabolism,rn:R01856,cpd:C00286,cpd:C00330
+Nucleotide metabolism,rn:R00966,cpd:C00106,cpd:C00105
+Nucleotide metabolism,rn:R00158,cpd:C00105,cpd:C00015
+Nucleotide metabolism,rn:R00156,cpd:C00015,cpd:C00075
+Nucleotide metabolism,rn:R00662,cpd:C00075,cpd:C00105
+Nucleotide metabolism,rn:R00571,cpd:C00075,cpd:C00063
+Nucleotide metabolism,rn:R01878,cpd:C00475,cpd:C00299
+Nucleotide metabolism,rn:R00512,cpd:C00055,cpd:C00112
+Nucleotide metabolism,rn:R00570,cpd:C00112,cpd:C00063
+Nucleotide metabolism,rn:R02024,cpd:C00112,cpd:C00705
+Nucleotide metabolism,rn:R00515,cpd:C00063,cpd:C00055
+Nucleotide metabolism,rn:R02485,cpd:C00881,cpd:C00526
+Nucleotide metabolism,rn:R01665,cpd:C00239,cpd:C00705
+Nucleotide metabolism,rn:R02326,cpd:C00705,cpd:C00458
+Nucleotide metabolism,rn:R02325,cpd:C00458,cpd:C00460
+Nucleotide metabolism,rn:R02484,cpd:C00526,cpd:C00106
+Nucleotide metabolism,rn:R02098,cpd:C00365,cpd:C01346
+Nucleotide metabolism,rn:R02018,cpd:C01346,cpd:C00015
+Nucleotide metabolism,rn:R02331,cpd:C01346,cpd:C00460
+Nucleotide metabolism,rn:R02100,cpd:C00460,cpd:C00365
+Nucleotide metabolism,rn:R01570,cpd:C00214,cpd:C00178
+Nucleotide metabolism,rn:R02101,cpd:C00365,cpd:C00364
+Nucleotide metabolism,rn:R02094,cpd:C00364,cpd:C00363
+Nucleotide metabolism,rn:R02093,cpd:C00363,cpd:C00459
+Nucleotide metabolism,rn:R11323,cpd:C00459,cpd:C00364
+Biosynthesis of nucleotide sugars,rn:R01092,cpd:C00984,cpd:C00446
+Biosynthesis of nucleotide sugars,rn:R00416,cpd:C04501,cpd:C00043
+Biosynthesis of nucleotide sugars,rn:R01786,cpd:C00267,cpd:C00668
+Biosynthesis of nucleotide sugars,rn:R00959,cpd:C00668,cpd:C00103
+Biosynthesis of nucleotide sugars,rn:R00948,cpd:C00103,cpd:C00498
+Biosynthesis of nucleotide sugars,rn:R02328,cpd:C00103,cpd:C00842
+Biosynthesis of nucleotide sugars,rn:R00289,cpd:C00103,cpd:C00029
+Biosynthesis of nucleotide sugars,rn:R00291,cpd:C00029,cpd:C00052
+Biosynthesis of nucleotide sugars,rn:R00286,cpd:C00029,cpd:C00167
+Biosynthesis of nucleotide sugars,rn:R00505,cpd:C00052,cpd:C03733
+Biosynthesis of nucleotide sugars,rn:R13199,cpd:C00668,cpd:C00085
+Biosynthesis of nucleotide sugars,rn:R00768,cpd:C00085,cpd:C00352
+Biosynthesis of nucleotide sugars,rn:R02060,cpd:C00352,cpd:C06156
+Biosynthesis of nucleotide sugars,rn:R05332,cpd:C06156,cpd:C04501
+Biosynthesis of nucleotide sugars,rn:R00660,cpd:C00043,cpd:C04631
+Biosynthesis of nucleotide sugars,rn:R03192,cpd:C04631,cpd:C01050
+Biosynthesis of nucleotide sugars,rn:R00772,cpd:C00275,cpd:C00085
+Biosynthesis of nucleotide sugars,rn:R01818,cpd:C00275,cpd:C00636
+Biosynthesis of nucleotide sugars,rn:R00885,cpd:C00636,cpd:C00096
+Biosynthesis of nucleotide sugars,rn:R00418,cpd:C00043,cpd:C00203
+Biosynthesis of nucleotide sugars,rn:R00888,cpd:C00096,cpd:C01222
+Biosynthesis of nucleotide sugars,rn:R05692,cpd:C01222,cpd:C00325
+Biosynthesis of nucleotide sugars,rn:R03399,cpd:C01222,cpd:C03117
+Biosynthesis of nucleotide sugars,rn:R09769,cpd:C05382,cpd:C19878
+Biosynthesis of nucleotide sugars,rn:R09770,cpd:C19878,cpd:C19879
+Biosynthesis of nucleotide sugars,rn:R09771,cpd:C19879,cpd:C19880
+Biosynthesis of nucleotide sugars,rn:R05645,cpd:C05382,cpd:C07836
+Biosynthesis of nucleotide sugars,rn:R05647,cpd:C11472,cpd:C07838
+Biosynthesis of nucleotide sugars,rn:R06513,cpd:C00842,cpd:C11907
+Biosynthesis of nucleotide sugars,rn:R06514,cpd:C11907,cpd:C00688
+Biosynthesis of nucleotide sugars,rn:R02777,cpd:C00688,cpd:C03319
+Biosynthesis of nucleotide sugars,rn:R10279,cpd:C03187,cpd:C03319
+Biosynthesis of cofactors,rn:R00894,"cpd:C00097, cpd:C00025",cpd:C00669
+Biosynthesis of cofactors,rn:R05085,cpd:C06054,cpd:C06055
+Biosynthesis of cofactors,rn:R00278,cpd:C00627,cpd:C00018
+Biosynthesis of cofactors,rn:R00425,cpd:C00044,cpd:C01304
+Biosynthesis of cofactors,rn:R03459,cpd:C01304,cpd:C01268
+Biosynthesis of cofactors,rn:R03458,cpd:C01268,cpd:C04454
+Biosynthesis of cofactors,rn:R04457,"cpd:C15556, cpd:C04732",cpd:C04332
+Biosynthesis of cofactors,rn:R00066,cpd:C04332,cpd:C00255
+Biosynthesis of cofactors,rn:R00549,cpd:C00255,cpd:C00061
+Biosynthesis of cofactors,rn:R00161,cpd:C00061,cpd:C00016
+Biosynthesis of cofactors,rn:R07281,cpd:C00199,cpd:C15556
+Biosynthesis of cofactors,rn:R04292,cpd:C05840,cpd:C03722
+Biosynthesis of cofactors,rn:R01724,cpd:C00253,cpd:C01185
+Biosynthesis of cofactors,rn:R01268,cpd:C00153,cpd:C00253
+Biosynthesis of cofactors,rn:R00481,cpd:C00049,cpd:C05840
+Biosynthesis of cofactors,rn:R00104,cpd:C00003,cpd:C00006
+Biosynthesis of cofactors,rn:R00189,cpd:C00857,cpd:C00003
+Biosynthesis of cofactors,rn:R03005,cpd:C01185,cpd:C00857
+Biosynthesis of cofactors,rn:R01214,cpd:C00183,cpd:C00141
+Biosynthesis of cofactors,rn:R02472,cpd:C00966,cpd:C00522
+Biosynthesis of cofactors,rn:R02473,"cpd:C00522, cpd:C00099",cpd:C00864
+Biosynthesis of cofactors,rn:R01226,cpd:C00141,cpd:C00966
+Biosynthesis of cofactors,rn:R00489,cpd:C00049,cpd:C00099
+Biosynthesis of cofactors,rn:R04230,cpd:C03492,cpd:C04352
+Biosynthesis of cofactors,rn:R03269,cpd:C04352,cpd:C01134
+Biosynthesis of cofactors,rn:R03018,cpd:C00864,cpd:C03492
+Biosynthesis of cofactors,rn:R03035,cpd:C01134,cpd:C00882
+Biosynthesis of cofactors,rn:R00130,cpd:C00882,cpd:C00010
+Biosynthesis of cofactors,rn:R03348,cpd:C03722,cpd:C01185
+Biosynthesis of cofactors,rn:R00424,cpd:C00044,cpd:C04895
+Biosynthesis of cofactors,rn:R03067,"cpd:C04807, cpd:C00568",cpd:C00921
+Biosynthesis of cofactors,rn:R03504,cpd:C04874,cpd:C01300
+Biosynthesis of cofactors,rn:R02237,cpd:C00921,cpd:C00415
+Biosynthesis of cofactors,rn:R00936,cpd:C00415,cpd:C00101
+Biosynthesis of cofactors,rn:R03066,cpd:C01300,cpd:C00921
+Biosynthesis of cofactors,rn:R02235,cpd:C00415,cpd:C00504
+Biosynthesis of cofactors,rn:R00937,cpd:C00504,cpd:C00101
+Biosynthesis of cofactors,rn:R04241,cpd:C09332,cpd:C03541
+Biosynthesis of cofactors,rn:R00942,cpd:C00101,cpd:C09332
+Biosynthesis of cofactors,rn:R05553,cpd:C11355,cpd:C00568
+Biosynthesis of cofactors,rn:R01716,cpd:C00251,cpd:C11355
+Biosynthesis of cofactors,rn:R09394,cpd:C00044,cpd:C21310
+Biosynthesis of cofactors,rn:R11372,cpd:C21310,cpd:C18239
+Biosynthesis of cofactors,rn:R09395,cpd:C18239,cpd:C05924
+Biosynthesis of cofactors,rn:R09735,cpd:C19848,cpd:C18237
+Biosynthesis of cofactors,rn:R01220,cpd:C00143,cpd:C00445
+Biosynthesis of cofactors,rn:R01655,cpd:C00445,cpd:C00234
+Biosynthesis of cofactors,rn:R00945,cpd:C00101,cpd:C00143
+Biosynthesis of cofactors,rn:R05578,cpd:C00025,cpd:C02987
+Biosynthesis of cofactors,rn:R04109,cpd:C02987,cpd:C03741
+Biosynthesis of cofactors,rn:R02272,cpd:C03741,cpd:C00430
+Biosynthesis of cofactors,rn:R00310,cpd:C02191,cpd:C00032
+Biosynthesis of cofactors,rn:R03222,cpd:C01079,cpd:C02191
+Biosynthesis of cofactors,rn:R03197,cpd:C01051,cpd:C03263
+Biosynthesis of cofactors,rn:R00084,cpd:C00931,cpd:C01024
+Biosynthesis of cofactors,rn:R03165,cpd:C01024,cpd:C01051
+Biosynthesis of cofactors,rn:R00036,cpd:C00430,cpd:C00931
+Biosynthesis of cofactors,rn:R03194,cpd:C01051,cpd:C02463
+Biosynthesis of cofactors,rn:R03947,cpd:C02463,cpd:C05778
+Biosynthesis of cofactors,rn:R02864,cpd:C05778,cpd:C00748
+Biosynthesis of cofactors,rn:R11522,cpd:C21284,cpd:C00032
+Biosynthesis of cofactors,rn:R07411,cpd:C00032,cpd:C15672
+Biosynthesis of cofactors,rn:R07412,cpd:C15672,cpd:C15670
+Biosynthesis of cofactors,rn:R05810,cpd:C11540,cpd:C16242
+Biosynthesis of cofactors,rn:R05812,cpd:C11542,cpd:C11543
+Biosynthesis of cofactors,rn:R07774,cpd:C11543,cpd:C16244
+Biosynthesis of cofactors,rn:R07775,cpd:C16244,cpd:C11545
+Biosynthesis of cofactors,rn:R05814,cpd:C11545,cpd:C05773
+Biosynthesis of cofactors,rn:R03948,cpd:C02463,cpd:C05772
+Biosynthesis of cofactors,rn:R05217,cpd:C05772,cpd:C06406
+Biosynthesis of cofactors,rn:R05180,cpd:C06406,cpd:C06407
+Biosynthesis of cofactors,rn:R05181,cpd:C06407,cpd:C06416
+Biosynthesis of cofactors,rn:R05150,cpd:C06320,cpd:C06319
+Biosynthesis of cofactors,rn:R05149,cpd:C06319,cpd:C06408
+Biosynthesis of cofactors,rn:R05177,cpd:C06408,cpd:C06399
+Biosynthesis of cofactors,rn:R05224,cpd:C06399,cpd:C06503
+Biosynthesis of cofactors,rn:R05815,cpd:C05773,cpd:C06504
+Biosynthesis of cofactors,rn:R05227,cpd:C06503,cpd:C06504
+Biosynthesis of cofactors,rn:R09083,cpd:C01847,cpd:C03114
+Biosynthesis of cofactors,rn:R12184,cpd:C06504,cpd:C06506
+Biosynthesis of cofactors,rn:R05225,cpd:C06506,cpd:C06507
+Biosynthesis of cofactors,rn:R07302,cpd:C06507,cpd:C06508
+Biosynthesis of cofactors,rn:R05221,cpd:C06508,cpd:C06509
+Biosynthesis of cofactors,rn:R05222,cpd:C06509,cpd:C06510
+Biosynthesis of cofactors,rn:R05223,"cpd:C06510, cpd:C05775",cpd:C00194
+Biosynthesis of cofactors,rn:R04594,cpd:C04778,cpd:C05775
+Biosynthesis of cofactors,rn:R04148,cpd:C03114,cpd:C04778
+Biosynthesis of cofactors,rn:R06529,cpd:C06507,cpd:C06509
+Biosynthesis of cofactors,rn:R01492,cpd:C00853,cpd:C00194
+Biosynthesis of cofactors,rn:R00177,cpd:C00073,cpd:C00019
+Biosynthesis of cofactors,rn:R08165,cpd:C00885,cpd:C16519
+Biosynthesis of cofactors,rn:R04031,cpd:C05817,cpd:C02730
+Biosynthesis of cofactors,rn:R04030,cpd:C02730,cpd:C03160
+Biosynthesis of cofactors,rn:R07263,cpd:C03160,cpd:C15547
+Biosynthesis of cofactors,rn:R07262,cpd:C15547,cpd:C03657
+Biosynthesis of cofactors,rn:R09736,cpd:C19847,cpd:C05819
+Biosynthesis of cofactors,rn:R10757,"cpd:C05847, cpd:C03657",cpd:C19847
+Biosynthesis of cofactors,rn:R01302,cpd:C00251,cpd:C00156
+Biosynthesis of cofactors,rn:R09737,cpd:C19858,cpd:C19859
+Biosynthesis of cofactors,rn:R00772,cpd:C00085,cpd:C00275
+Biosynthesis of cofactors,rn:R00885,cpd:C00636,cpd:C00096
+Biosynthesis of cofactors,rn:R00289,cpd:C00103,cpd:C00029
+Biosynthesis of cofactors,rn:R00286,cpd:C00029,cpd:C00167
+Biosynthesis of cofactors,rn:R09398,"cpd:C19155, cpd:C19154",cpd:C19153
+Biosynthesis of cofactors,rn:R09397,cpd:C19156,cpd:C19155
+Biosynthesis of cofactors,rn:R10116,cpd:C20372,cpd:C20373
+Biosynthesis of cofactors,rn:R10120,cpd:C20376,cpd:C20377
+Biosynthesis of cofactors,rn:R10124,cpd:C19845,cpd:C01092
+Biosynthesis of cofactors,rn:R03231,cpd:C01092,cpd:C01037
+Biosynthesis of cofactors,rn:R03182,cpd:C01037,cpd:C01909
+Biosynthesis of cofactors,rn:R12934,cpd:C22458,cpd:C01909
+Biosynthesis of cofactors,rn:R01078,cpd:C01909,cpd:C00120
+Biosynthesis of cofactors,rn:R03210,cpd:C01063,cpd:C01092
+Biosynthesis of cofactors,rn:R01135,cpd:C00130,cpd:C03794
+Biosynthesis of cofactors,rn:R01083,cpd:C03794,cpd:C00020
+Biosynthesis of cofactors,rn:R00127,cpd:C00020,cpd:C00008
+Biosynthesis of cofactors,rn:R00331,cpd:C00008,cpd:C00002
+Biosynthesis of cofactors,rn:R12424,cpd:C22159,cpd:C02972
+Biosynthesis of cofactors,rn:R12427,cpd:C05752,cpd:C22160
+Biosynthesis of cofactors,rn:R12423,cpd:C22160,cpd:C15973
+Biosynthesis of cofactors,rn:R12428,cpd:C05752,cpd:C22159
+Biosynthesis of cofactors,rn:R07618,cpd:C15973,cpd:C15972
+Biosynthesis of cofactors,rn:R00575,cpd:C00064,cpd:C00169
+Biosynthesis of cofactors,rn:R01397,cpd:C00169,cpd:C00438
+Biosynthesis of cofactors,rn:R01993,cpd:C00438,cpd:C00337
+Biosynthesis of cofactors,rn:R01867,cpd:C00337,cpd:C00295
+Biosynthesis of cofactors,rn:R01870,"cpd:C00295, cpd:C00119",cpd:C01103
+Biosynthesis of cofactors,rn:R00965,cpd:C01103,cpd:C00105
+Biosynthesis of cofactors,rn:R00158,cpd:C00105,cpd:C00015
+Biosynthesis of cofactors,rn:R00156,cpd:C00015,cpd:C00075
+Biosynthesis of cofactors,rn:R00571,cpd:C00075,cpd:C00063
+Biosynthesis of cofactors,rn:R00570,cpd:C00112,cpd:C00063
+Biosynthesis of cofactors,rn:R10089,"cpd:C00118, cpd:C00064, cpd:C00117",cpd:C00018
+Biosynthesis of cofactors,rn:R07460,cpd:C00097,cpd:C15812
+Biosynthesis of cofactors,rn:R03472,cpd:C03373,cpd:C04556
+Biosynthesis of cofactors,rn:R00617,cpd:C01081,cpd:C00068
+Biosynthesis of cofactors,rn:R04509,cpd:C04556,cpd:C04752
+Biosynthesis of cofactors,rn:R03471,cpd:C01279,cpd:C04556
+Biosynthesis of cofactors,rn:R03223,"cpd:C04752, cpd:C04327",cpd:C01081
+Biosynthesis of cofactors,rn:R07463,cpd:C00037,cpd:C15809
+Biosynthesis of cofactors,rn:R10247,"cpd:C15814, cpd:C11437, cpd:C15809",cpd:C20246
+Biosynthesis of cofactors,rn:R10712,"cpd:C04752, cpd:C20247",cpd:C01081
+Biosynthesis of cofactors,rn:R00904,cpd:C05665,cpd:C00099
+Biosynthesis of cofactors,rn:R04178,cpd:C03263,cpd:C05770
+Biosynthesis of cofactors,rn:R11329,cpd:C05770,cpd:C21284
+Degradation of aromatic compounds,rn:R06782,cpd:C05629,cpd:C11588
+Degradation of aromatic compounds,rn:R06783,cpd:C00423,cpd:C12622
+Degradation of aromatic compounds,rn:R09883,cpd:C04844,cpd:C20199
+Degradation of aromatic compounds,rn:R04597,cpd:C04793,cpd:C04844
+Degradation of aromatic compounds,rn:R03470,cpd:C01278,cpd:C03586
+Degradation of aromatic compounds,rn:R02601,cpd:C00596,cpd:C03589
+Degradation of aromatic compounds,rn:R00750,cpd:C03589,cpd:C00022
+Degradation of aromatic compounds,rn:R06917,cpd:C14089,cpd:C14090
+Degradation of aromatic compounds,rn:R06927,cpd:C02909,cpd:C14099
+Degradation of aromatic compounds,rn:R00228,cpd:C00084,cpd:C00024
